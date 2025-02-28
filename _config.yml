@@ -21,11 +21,11 @@
 title: Algorave Bhagyanagar
 email: xyzzyapps@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Node of TOPLAP, in Hyderabad India
-baseurl: "/algorave-bhagyanagar" # the subpath of your site, e.g. /blog
-url: "https://xyzzyapps.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Node of TOPLAP, in Hyderabad  / Bhagyanagar India
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://algoravebhagyanagar.live" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  xyzzyapps
-host: xyzzyapps.github.io
+host: algoravebhagyanagar.live
 port: 80
 
 # Build settings
