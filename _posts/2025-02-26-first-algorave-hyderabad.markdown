@@ -5,7 +5,7 @@ date:   2025-02-26 19:27:01 +0530
 categories: jekyll update
 ---
 
-<img src="/algorave-bhagyanagar/assets/poster1.jpeg"/>
+<img src="/assets/poster1.jpeg"/>
 
 [@algorave](https://www.instagram.com/algorave) comes to Hyderabad! 1,000/- for a ticket. UPI available. Can be bought at the studio.
 
